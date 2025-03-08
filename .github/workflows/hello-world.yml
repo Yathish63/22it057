@@ -1,8 +1,9 @@
-name: hello-world.yathish63
+name: hello-world.yathish6
 on: push
+
 jobs:
 my-job:
 runs-on: ubuntu-latest
 steps:
 - name: run your name
-run: echo "Hello World! - yathish63"
+run: echo "Hello World! - yathish6"
