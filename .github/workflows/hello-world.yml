@@ -1,0 +1,8 @@
+name: hello-world.yathish63
+on: push
+jobs:
+my-job:
+runs-on: ubuntu-latest
+steps:
+- name: run your name
+run: echo "Hello World! - yathish63"
